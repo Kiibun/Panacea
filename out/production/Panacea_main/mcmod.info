@@ -1,0 +1,16 @@
+[
+{
+  "modid": "panacea",
+  "name": "Panacea",
+  "description": "A solution to all your problems.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kiibun"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
